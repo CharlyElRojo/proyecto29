@@ -1,3 +1,5 @@
 Estamos en GIT
 
 VIM
+
+estamos flasheando un poco...
